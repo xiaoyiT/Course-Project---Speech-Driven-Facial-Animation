@@ -15,7 +15,6 @@ Our project mainly contains three parts:
 	Put all speech files in ./speech folder
 	Put train video files in ./train/video folder
 	Put test video files in ./test/video folder
-
 	Use python3 to run preprocess_train.py and preprocess_test.py to get feature array
 	such as: python3 preprocess_train.py   OR  python3 preprocess_test.py
 
